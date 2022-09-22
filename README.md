@@ -17,4 +17,10 @@ The template icludes:
 This is an example of the template
 ![](https://github.com/Rubensv/TCA-Feature-Xcode-Template/blob/master/Assets/template.png)
 
+## Installation
+To install the template, download the files and copy "**TCA Feature.xctemplate**" file into ~/Library/Developer/Xcode/Templates/TCA folder.
+
+Restart XCode and open it again and then you will see the template when clik to **File** -> **New** -> **File** *(Cmd + N)*
+![](https://github.com/Rubensv/TCA-Feature-Xcode-Template/blob/master/Assets/selector.png)
+
 
