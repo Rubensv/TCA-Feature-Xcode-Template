@@ -13,7 +13,7 @@ The template icludes:
 * The Preview
 
 This is an example of the template
-![image]()
+![](https://github.com/Rubensv/TCA-Feature-Xcode-Template/blob/master/Assets/template.png)
 
 
 This will be deprecated when PointFree releases the new **ReducerProtocol**. [More info here](https://github.com/pointfreeco/swift-composable-architecture/discussions/1282)
